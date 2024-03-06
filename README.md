@@ -15,7 +15,7 @@ QR code web page
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Frontend Mentor | QR code componenet](https://65e89e35bd34661dac5351bb--cool-cobbler-8e991f.netlify.app/)
 
 ## My process
 
