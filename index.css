@@ -2,12 +2,12 @@ body {
   font-family: "Outfit", sans-serif;
   display: flex;
   flex-direction: column;
-  position: relative;
   width: 100%;
   height: 100vh;
   justify-content: center;
   align-items: center;
   background-color: hsl(212, 45%, 89%);
+  margin: 0;
 }
 
 .white-container {
@@ -43,7 +43,8 @@ p {
 .attribution {
   font-size: 11px;
   text-align: center;
-
+  position: fixed;
+  bottom: 0;
 }
 
 .attribution a {
