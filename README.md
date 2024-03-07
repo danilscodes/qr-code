@@ -30,7 +30,12 @@ QR code web page
 
 ### What I learned
 
+learned about landmark tags
+learned not to limit heights on elements, use min-height
+learned to use max-width with rem on my container, not width
 learned more about flexbox
+refreshed on media queries for responsiveness
+
 center div in middle of page:
 
 ```css
@@ -38,7 +43,7 @@ center div in middle of page:
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   justify-content: center;
   align-items: center;
 }
