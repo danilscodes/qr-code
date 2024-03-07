@@ -11,11 +11,15 @@
 
 ## Overview
 
-QR code web page
+QR code componenet
+
+### Screenshot
+
+![](./images/solution-screenshot.png)
 
 ### Links
 
-- Live Site URL: [Frontend Mentor | QR code componenet](https://65e89e35bd34661dac5351bb--cool-cobbler-8e991f.netlify.app/)
+- Live Site URL: [Frontend Mentor | QR code componenet](https://65e9f05559073d33d465b0aa--polite-bienenstitch-4a68c0.netlify.app/)
 
 ## My process
 
